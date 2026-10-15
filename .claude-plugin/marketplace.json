@@ -1,0 +1,5 @@
+{
+  "name": "al-status-line",
+  "owner": { "name": "NathapolDev" },
+  "plugins": [{ "name": "al-status", "source": "./" }]
+}
